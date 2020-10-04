@@ -1,2 +1,3 @@
 # Landing-Page
-Dibuat menggunakan Bootstrap versi 4
+- Website profile perusahaan yang menawarkan coworking space 
+- Dibuat menggunakan Bootstrap 4
